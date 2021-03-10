@@ -1,5 +1,3 @@
-package com.knoldus;
-
 import java.util.List;
 
 @FunctionalInterface

@@ -1,10 +1,10 @@
-package com.knoldus;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 class GetDistinctStringsImplTest {
     private static final Object Uniqueset = null;
