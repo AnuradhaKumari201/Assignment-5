@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MainClass {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NullPointerException{
         GetDistinctStringsImpl obj = new GetDistinctStringsImpl();
 
         System.out.println(obj.get.distinctStrings(new ArrayList<>(Arrays.asList("java","java","c"))));
